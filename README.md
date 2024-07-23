@@ -2,4 +2,4 @@
 This is my first github Repositiry.
 <br>
 
-Authoe - Waqas Ali
+Author - Waqas Ali
