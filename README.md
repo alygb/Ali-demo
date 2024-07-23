@@ -1,2 +1,3 @@
 # Ali-demo
-This is y first github Repositiry
+This is my first github Repositiry
+Authoe - Waqas Ali
